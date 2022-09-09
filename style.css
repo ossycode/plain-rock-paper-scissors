@@ -1,0 +1,17 @@
+
+#results{
+    margin-top: 5;
+    text-align: center;
+    font-size: large;
+    color: brown;
+}
+
+#notification{
+    margin: 2;
+    font-size:medium;
+    color:rgb(243, 145, 18)
+}
+
+.score h3{
+    color: crimson;
+}
